@@ -1,0 +1,2 @@
+/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/2-Cache-variables/builds/CMakeFiles/rebuild_cache.dir
+/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/2-Cache-variables/builds/CMakeFiles/edit_cache.dir
