@@ -1,3 +1,0 @@
-/home/stevedan/Desktop/cmake_course/minimal-example/builds/CMakeFiles/rebuild_cache.dir
-/home/stevedan/Desktop/cmake_course/minimal-example/builds/CMakeFiles/foo.dir
-/home/stevedan/Desktop/cmake_course/minimal-example/builds/CMakeFiles/edit_cache.dir
