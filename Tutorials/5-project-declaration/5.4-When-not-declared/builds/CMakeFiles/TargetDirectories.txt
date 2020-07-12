@@ -1,4 +1,0 @@
-/home/stevedan/Desktop/cmake_course/Tutorials/5-project-declaration/5.4-When-not-declared/builds/CMakeFiles/rebuild_cache.dir
-/home/stevedan/Desktop/cmake_course/Tutorials/5-project-declaration/5.4-When-not-declared/builds/CMakeFiles/edit_cache.dir
-/home/stevedan/Desktop/cmake_course/Tutorials/5-project-declaration/5.4-When-not-declared/builds/boo/CMakeFiles/rebuild_cache.dir
-/home/stevedan/Desktop/cmake_course/Tutorials/5-project-declaration/5.4-When-not-declared/builds/boo/CMakeFiles/edit_cache.dir
