@@ -1,3 +1,0 @@
-/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/build/CMakeFiles/rebuild_cache.dir
-/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/build/CMakeFiles/foo.dir
-/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/build/CMakeFiles/edit_cache.dir

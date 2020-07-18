@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/123-tgt.dir/foo.cpp.o  -o 123-tgt 
