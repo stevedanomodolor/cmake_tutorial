@@ -1,0 +1,3 @@
+/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/_builds/CMakeFiles/rebuild_cache.dir
+/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/_builds/CMakeFiles/123-tgt.dir
+/home/stevedan/Desktop/cmake_course/Tutorials/6-Variables/3-Environment-variables/_builds/CMakeFiles/edit_cache.dir
